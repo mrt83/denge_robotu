@@ -1,0 +1,4 @@
+pid.c:9:7:_fabs	24	static
+pid.c:21:6:pid_reset	16	static
+pid.c:32:6:pid_control	32	static
+pid.c:116:6:pid_load_value	16	static

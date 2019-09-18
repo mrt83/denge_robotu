@@ -1,0 +1,4 @@
+timer.c:58:6:timer1Init	4	static
+timer.c:63:6:timerTask	4	static
+timer.c:141:6:startTimeScanFlags	4	static
+timer.c:203:6:clearTimeScanFlags	4	static

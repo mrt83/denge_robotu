@@ -1,0 +1,6 @@
+#define SAG_MOTOR_DIR_BACK_PIN  			GPIO_PIN_1
+#define SAG_MOTOR_DIR_FORWARD_PIN			GPIO_PIN_0
+#define SOL_MOTOR_DIR_BACK_PIN  			GPIO_PIN_12
+#define SOL_MOTOR_DIR_FORWARD_PIN			GPIO_PIN_13
+extern uint8_t rx_buffer[10];
+

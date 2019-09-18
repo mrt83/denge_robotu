@@ -1,0 +1,14 @@
+mpu6050.c:61:6:MPU6050_Init	24	static
+mpu6050.c:92:6:mpu6050_write	40	static
+mpu6050.c:99:6:mpu6050_read	40	static
+mpu6050.c:107:6:MPU6050_Task	16	static
+mpu6050.c:142:6:mpu6050_Acc_X_Axis_Read	32	static
+mpu6050.c:161:6:mpu6050_Acc_Y_Axis_Read	32	static
+mpu6050.c:178:6:mpu6050_Acc_Z_Axis_Read	32	static
+mpu6050.c:202:6:mpu6050_Gyr_X_Axis_Read	32	static
+mpu6050.c:211:6:mpu6050_Gyr_Y_Axis_Read	32	static
+mpu6050.c:225:6:mpu6050_Gyr_Z_Axis_Read	32	static
+mpu6050.c:235:6:xang	24	static
+mpu6050.c:244:6:yang	24	static
+mpu6050.c:252:6:pitch_find	24	static
+mpu6050.c:301:6:mpu6050_Tmp_Read	32	static
